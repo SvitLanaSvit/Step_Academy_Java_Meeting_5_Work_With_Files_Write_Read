@@ -1,0 +1,2 @@
+# Step_Academy_Java_Meeting_5_Work_With_Files_Write_Read
+[JAVA_Practice_Module_05_Ua.pdf](https://github.com/SvitLanaSvit/Step_Academy_Java_Meeting_5_Work_With_Files_Write_Read/blob/main/assets/JAVA_Practice_Module_05_Ua.pdf)
